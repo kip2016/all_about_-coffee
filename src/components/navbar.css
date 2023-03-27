@@ -1,0 +1,25 @@
+nav ul{
+  list-style-type: none;
+  padding: 0;
+}
+nav li{
+  display: inline;
+  float: left;
+  
+  
+}
+
+nav a:link, nav a:visited {
+  background-color: brown;
+  color: white;
+  display: block;
+  width: 160px;
+  text-align: center;
+  padding: 10px 0;
+  text-decoration: none;
+  
+  
+}
+nav a:hover{
+  background-color: black;
+}

@@ -1,0 +1,14 @@
+footer{
+  margin: 40px 0;
+}
+footer nav a:link, footer nav a:visited{
+  color: gray;
+  text-decoration: none;
+  display: block;
+  width: 160px;
+  text-align: center;
+  background-color: white;
+}
+footer nav a:hover{
+  color: black;
+}
